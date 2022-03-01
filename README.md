@@ -9,9 +9,7 @@ Ramunas website project_
 
 This project is for educational porpuses only. Pull request are welcome. Thank you for your cooperation!
 
-Site published at (https://github.com/Ramas1985/2-mergaite)
-
-Design: [Mergaite](https://github.com/Ramas1985/2-mergaite)
+Site published at (https://ramas1985.github.io/2nd-lesson-404/)
 
 ## Project features
 
